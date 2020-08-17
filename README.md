@@ -1,6 +1,8 @@
 # ClearLinux-Secure-Workstation
 Configuration files to configure common applications and lock down your ClearLinux desktop.
 
+
+
 **clearlinux-nginx.sh** - A docker container script for running  an nginx server (web hosting)
 
 **dnscrypt-proxy.sh** - A docker container script for running a dnscrypt-proxy server (secure dns)
@@ -12,6 +14,8 @@ Configuration files to configure common applications and lock down your ClearLin
 **hostsfile-paranoid.sh** - A script that downloads a security conscious hosts file to block malware/phising and bad hosts (hostsfile)
 
 **setup.sh** - A script to install applications, remove services and get a new system up and running. (workstation)
+
+
 
 
 Please feel to suggest more! Keep in mind this configuration is tailored towards activists, lawyers, paralegals, etc. 
