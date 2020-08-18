@@ -1,7 +1,7 @@
 # ClearLinux-Secure-Workstation
 Configuration scripts to configure common applications and lock down your ClearLinux desktop.
 
-
+---
 
 **clearlinux-nginx.sh** - A docker container script for running  an nginx server (web hosting)
 
@@ -15,8 +15,9 @@ Configuration scripts to configure common applications and lock down your ClearL
 
 **setup.sh** - A script to install applications, remove services and get a new system up and running. (workstation)
 
+**rkhunter** - A script to install rkhunter, an application that you can use to scan your system for rootkits
 
-
+---
 
 Please feel to suggest more! Keep in mind this configuration is tailored towards activists, lawyers, paralegals, etc. 
 
