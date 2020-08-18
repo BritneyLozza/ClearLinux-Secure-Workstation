@@ -15,7 +15,7 @@ Configuration scripts to configure common applications and lock down your ClearL
 
 **setup.sh** - A script to install applications, remove services and get a new system up and running. (workstation)
 
-**rkhunter** - A script to install rkhunter, an application that you can use to scan your system for rootkits
+**rkhunter.sh** - A script to install rkhunter, an application that you can use to scan your system for rootkits
 
 ---
 
