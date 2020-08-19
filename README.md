@@ -13,6 +13,8 @@ Basic security for a secure workstation.
 
 **firewall.sh** A script to install firewalld and lock it down. (firewall)
 
+**hostsfile-paranoid.sh** - A script that downloads a security conscious hosts file to block malware/phising and bad hosts (hostsfile)
+
 # Additional scripts
 
 Depending on your OPSec threat model, you may want to take additional measures and use some of these scripts.
@@ -21,7 +23,6 @@ Depending on your OPSec threat model, you may want to take additional measures a
 
 **honeytrap.sh** - A docker script for running a honey trap, catch hackers try to break in to your system.(honeytrap)
 
-**hostsfile-paranoid.sh** - A script that downloads a security conscious hosts file to block malware/phising and bad hosts (hostsfile)
 
 # Server stuff
 
