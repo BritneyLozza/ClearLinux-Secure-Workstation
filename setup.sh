@@ -27,6 +27,7 @@ flatpak install flathub org.mozilla.Thunderbird
 flatpak install flathub com.calibre_ebook.calibre
 flatpak install flathub com.tutanota.Tutanota
 flatpak install flathub org.signal.Signal
+flatpak install flathub network.loki.Session
 
 # Add youtube-dl
 
