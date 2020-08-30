@@ -23,6 +23,8 @@ Depending on your OPSec threat model, you may want to take additional measures a
 
 **honeytrap.sh** - A docker script for running a honey trap, catch hackers try to break in to your system.(honeytrap)
 
+**protonvpn.sh** - A script that will install ProtonVPN, a service which offers free VPN. VPN can be used to secure your communications.
+
 
 # Server stuff
 
